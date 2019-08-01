@@ -68,3 +68,13 @@ Bryan: 342
 Deben tener 200 imagenes por cada clase, pero no es necesario descargar las 200 imagenes crudas. Sino por ejemplo: 50 imagenes crudas y aplicar 4 filtros a cada imagen(Aumentar-Disminuir brillo/contraste, crop, flip). Lo que en total les daria 200 imagenes en total. 
 
 No recomendable aplicar a todas las clases filtros de rotacion, por ejemplo para autos no seria conveniente pero si lo seria para ropa, etc. 
+
+
+## Librerias
+opencv-python           3.4.2.16
+
+matplotlib              3.1.0 
+
+numpy                   1.16.4  
+
+pandas                  0.24.2  
