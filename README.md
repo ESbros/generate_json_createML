@@ -36,22 +36,35 @@ Carpeta con distintos archivos JSON: Dog_Annotation.json, Cat_Annotation.json ->
 
 # Ceriterios de Busqueda (Imagenes)
 Descargar 200 imagenes de cada clase.
+
 Dimension: >1000px(ancho) y >800px (largo)
+
 
 #### Ejemplo: 
 Taxi: Descargar imagenes de taxis en distintas posiciones. Lado, frente, etc.
+
 Perro: Imagenes de perros de distintas razas.
+
 Ropa: Images de prendas sueltas. No vestidas por personas.
 
 
-## Distribucion 
-Elias: 1 - 68 primeras clases
+## Distribucion de clases (YOLO Ext)
+Elias: 1 - 68 
+
 Santiago: 69 - 136  
+
 Bryan Eduardo: 137 - 204
+
 Marcos Fernando: 205 - 272
+
 Genesis: 273 - 340
+
 Marcos: 341
+
 Bryan: 342
 
+
 # Importante
-Deben tener 200 imagenes por cada clase, pero no es necesario descargar las 200 imagenes crudas. Sino por ejemplo: 50 imagenes crudas y aplicar 4 filtros a cada imagen(Aumentar-Disminuir brillo/contraste, crop, flip). Lo que en total les daria 200 imagenes en total. No recomendable aplicar a todas las clases filtros de rotacion, por ejemplo para autos no seria conveniente pero si lo seria para ropa, etc. 
+Deben tener 200 imagenes por cada clase, pero no es necesario descargar las 200 imagenes crudas. Sino por ejemplo: 50 imagenes crudas y aplicar 4 filtros a cada imagen(Aumentar-Disminuir brillo/contraste, crop, flip). Lo que en total les daria 200 imagenes en total. 
+
+No recomendable aplicar a todas las clases filtros de rotacion, por ejemplo para autos no seria conveniente pero si lo seria para ropa, etc. 
