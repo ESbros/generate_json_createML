@@ -37,7 +37,7 @@ Carpeta con distintos archivos JSON: Dog_Annotation.json, Cat_Annotation.json ->
 # Ceriterios de Busqueda (Imagenes)
 Descargar 200 imagenes de cada clase.
 
-Dimension: >1000px(ancho) y >800px (largo)
+Dimension: >1000px(ancho) y >800px (alto)
 
 
 #### Ejemplo: 
