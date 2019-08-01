@@ -15,7 +15,9 @@ Pasar la direccion de la carpeta que contiene las imagenes.
 
 Pasar la direccion donde el archivos JSON se va a guardar.
 
-Mas Informacion: https://github.com/ESbros/CreateML_Annotations_JSON
+## Revisen estos links para mas informacion: 
+https://medium.com/@eriksols/generate-annotations-json-format-for-createml-apple-with-python-90fc848cd439
+https://github.com/ESbros/CreateML_Annotations_JSON
 
 
 ## Unir JSON
@@ -31,4 +33,14 @@ Carpeta con distintos archivos JSON: Dog_Annotation.json, Cat_Annotation.json ->
 
 ## Iterar JSON
 #### open_json.py
+
+
+# Ceriterios de Busqueda (Imagenes)
+Descargar 200 imagenes de cada clase.
+Dimension: >1000px(ancho) y >800px (largo)
+
+#### Ejemplo: 
+Taxi: Descargar imagenes de taxis en distintas posiciones. Lado, frente, etc.
+Perro: Imagenes de perros de distintas razas.
+Ropa: Images de prendas sueltas. No vestidas por personas.
 
