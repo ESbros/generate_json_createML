@@ -2,7 +2,7 @@ import os
 import cv2
 import json
 
-image_folder = '/Users/edsg/Desktop/DataSetML/Data_Sets/Annotations/All'  
+image_folder = 'Path_to_folder_containig_json_files'  
 file_names = os.listdir(image_folder)
 join_annotations = []
 
