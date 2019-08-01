@@ -1,4 +1,4 @@
-Scripts en Python para filtrar imagenes(rotacion, brillo, contraste, flip, crop), generar archivos JSON y unir archivos JSON de distintas clases.
+#Scripts en Python para filtrar imagenes(rotacion, brillo, contraste, flip, crop), generar archivos JSON y unir archivos JSON de distintas clases.
 
 ##Filtrar Imagenes
 increase_data.py
