@@ -15,9 +15,8 @@ Pasar la direccion de la carpeta que contiene las imagenes.
 
 Pasar la direccion donde el archivos JSON se va a guardar.
 
-## Revisen estos links para mas informacion: 
+## Revisen este link para mas informacion: 
 https://medium.com/@eriksols/generate-annotations-json-format-for-createml-apple-with-python-90fc848cd439
-https://github.com/ESbros/CreateML_Annotations_JSON
 
 
 ## Unir JSON
