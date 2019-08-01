@@ -9,7 +9,7 @@ Pasar la direccion de la carpeta que contiene las imagenes. (Imagenes formato JP
 ## Generate JSON
 generate_json.py
 
-Nombre de la imagens: cat_1.jpg, dog_1.png, cat_2.JPEG, dog_2.PNG
+Nombre de la imagenes: cat_1.jpg, dog_1.png, cat_2.JPEG, dog_2.PNG
 
 Pasar la direccion de la carpeta que contiene las imagenes.
 
