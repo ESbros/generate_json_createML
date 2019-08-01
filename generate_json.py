@@ -52,7 +52,7 @@ def generate_json(tl_list, br_list):
 
 
 #Main
-image_folder = '/Users/edsg/Desktop/test'  
+image_folder = 'Path_to_image_folder'  
 file_name = ''
 name_class = ''
 rotation = ''
@@ -86,5 +86,5 @@ for file_name in file_names:
 print('Numero de Imagenes Procesadas:', len(annotations))
 
 json_file = json.dumps(annotations)
-with open('/Users/edsg/Desktop/Annotations_Test.json', 'w') as f:
+with open('Save_Directory/Annotations.json', 'w') as f:
     f.write(json_file)
