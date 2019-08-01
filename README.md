@@ -6,10 +6,10 @@
 Pasar la direccion de la carpeta que contiene las imagenes. (Imagenes formato JPG, JPEG, PNG)
 
 
-## Generate JSON
+## Crear JSON
 #### generate_json.py
 
-Nombre de la imagenes: cat_1.jpg, dog_1.png, cat_2.JPEG, dog_2.PNG
+Nombre de la imagen: cat_1.jpg, dog_1.png, cat_2.JPEG, dog_2.PNG
 
 Pasar la direccion de la carpeta que contiene las imagenes.
 
@@ -25,7 +25,7 @@ Pasar la direccion de la carpeta que contiene las imagenes.
 
 Pasar la direccion donde el archivo JSON se va a guardar.
 
-Ejemplo:
+#### Ejemplo:
 Carpeta con distintos archivos JSON: Dog_Annotation.json, Cat_Annotation.json -> Dog_Cat_Annotation.json
 
 
