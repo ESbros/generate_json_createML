@@ -21,7 +21,7 @@ Mas Informacion: https://github.com/ESbros/CreateML_Annotations_JSON
 ## Unir JSON
 #### join_json.py
 
-Pasar la direccion de la carpeta que contiene las imagenes.
+Pasar la direccion de la carpeta que contiene los archivos JSON de distintas clases.
 
 Pasar la direccion donde el archivo JSON se va a guardar.
 
