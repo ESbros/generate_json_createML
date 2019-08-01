@@ -65,7 +65,7 @@ Bryan: 342
 
 
 # Importante
-Deben tener 200 imagenes por cada clase, pero no es necesario descargar las 200 imagenes crudas. Sino por ejemplo: 50 imagenes crudas y aplicar 4 filtros a cada imagen(Aumentar-Disminuir brillo/contraste, crop, flip). Lo que en total les daria 200 imagenes en total. 
+Deben tener 200 imagenes por cada clase, pero no es necesario descargar las 200 imagenes crudas. Sino por ejemplo: 50 imagenes crudas y aplicar 4 filtros a cada imagen(Aumentar-Disminuir brillo/contraste, crop, flip). Lo que en total les daria 200 imagenes. 
 
 No recomendable aplicar a todas las clases filtros de rotacion, por ejemplo para autos no seria conveniente pero si lo seria para ropa, etc. 
 
