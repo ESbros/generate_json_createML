@@ -77,7 +77,7 @@ def flip_image(img):
 
 
 #Main
-image_folder = '/Users/edsg/Desktop/test'  
+image_folder = 'Pat_to_image_folder'  
 file_names = os.listdir(image_folder)
 file_name = ''
 image_name = ''
