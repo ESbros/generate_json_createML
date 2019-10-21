@@ -53,8 +53,8 @@ def generate_json(tl_list, br_list):
 
 #Main
 image_folder = 'Path_to_image_folder'  
-file_name = ''
-name_class = ''
+file_name = ''  
+name_class = ''  #Nombre de la clase ej: name_class='dog'
 rotation = ''
 
 annotations = [] 
@@ -64,7 +64,7 @@ file_names = os.listdir(image_folder)
 
 for file_name in file_names:
     if file_name[0] != '.':
-        name_class, sep, tail = file_name.partition('_')
+        #name_class, sep, tail = file_name.partition('_')       Tomar clase del nombre de la imagen
         dir_file = image_folder + '/' + file_name
 
         fig, ax = plt.subplots(1)                                              
