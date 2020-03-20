@@ -2,14 +2,14 @@ import os
 import cv2
 import json
 
-image_folder = 'Path_to_folder_containig_json_files'  
+jsons_folder = 'Path_to_folder_containig_json_files'  
 file_names = os.listdir(image_folder)
 join_annotations = []
 
 count = 0
 for file_name in file_names:
     if file_name[0] != '.': 
-        directory = image_folder + '/' + file_name
+        directory = jsons_folder + '/' + file_name
         count += 1
         with open(directory, 'r') as f:
             datastore = json.load(f)
